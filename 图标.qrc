@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>smog-solid.svg</file>
+    <file>tornado-solid.svg</file>
+  </qresource>
+  <qresource prefix="jpg">
+    <file>卫星.jpg</file>
+    <file>飞机跑道.jpg</file>
+    <file>风车.jpg</file>
+    <file>风切变.jpg</file>
+    <file>雷电.jpg</file>
+    <file>sude-soyluturk-qCYrA9qg-_4-unsplash.jpg</file>
+    <file>maxine-rose-p2EDtwyZwVs-unsplash.jpg</file>
+    <file>raquel-pedrotti-6dIQqmC9__g-unsplash.jpg</file>
+  </qresource>
+</RCC>
